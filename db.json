@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": "STUDENT01",
+      "name": "Demo Student",
+      "role": "student",
+      "salt": "11f8db0d902ad153587271ccd59b848a",
+      "hash": "3be178e68d2788fc3e889e6d840553a29fa748520f3ba143d8425307f59d3eba5a1b740d1e4e8de7bfa0153fe4aec87f4efbb5445bb7a6586c52b3fc2c065cd7"
+    },
+    {
+      "id": "FACULTY01",
+      "name": "Faculty Admin",
+      "role": "faculty",
+      "salt": "6c34926b7e1e7d7dd2c44a8f352fcd4a",
+      "hash": "7769b185f8da179c7b1eb5e50259f9c3e9c36e44cfd9a3e78dfe81fb7141263f2c67dfe8adac70dcd9458804d244f2e62fa4c5d65a9c2445aa66ab057e22e4b9"
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "title": "Tech Club Orientation",
+      "cat": "Club Event",
+      "date": "2026-09-20T10:00",
+      "club": "Tech Club",
+      "loc": "Seminar Hall",
+      "desc": "Meet the team, discover projects and join campus tech communities.",
+      "urgent": false,
+      "created": "2026-09-10T08:00:00.000Z"
+    },
+    {
+      "id": "e2",
+      "title": "AI & Machine Learning Bootcamp",
+      "cat": "Workshop",
+      "date": "2026-09-22T14:00",
+      "club": "AI Society",
+      "loc": "Innovation Lab",
+      "desc": "A practical beginner-friendly workshop on AI, ML and model building.",
+      "urgent": false,
+      "created": "2026-09-11T08:00:00.000Z"
+    },
+    {
+      "id": "e3",
+      "title": "CodeSprint 2026",
+      "cat": "Competition",
+      "date": "2026-09-27T09:00",
+      "club": "Coding Club",
+      "loc": "Computer Centre",
+      "desc": "A fast-paced campus coding competition with team and solo rounds.",
+      "urgent": false,
+      "created": "2026-09-12T08:00:00.000Z"
+    },
+    {
+      "id": "e4",
+      "title": "Scholarship Form Deadline",
+      "cat": "Notice",
+      "date": "2026-09-19T17:00",
+      "club": "Student Affairs",
+      "loc": "Student Office",
+      "desc": "Final date for submitting the current scholarship application forms.",
+      "urgent": true,
+      "created": "2026-09-13T08:00:00.000Z"
+    },
+    {
+      "id": "e5",
+      "title": "Photography Walk",
+      "cat": "Club Event",
+      "date": "2026-09-24T16:00",
+      "club": "Photography Club",
+      "loc": "Main Gate",
+      "desc": "An evening photo walk around the campus with peer photographers.",
+      "urgent": false,
+      "created": "2026-09-13T09:00:00.000Z"
+    },
+    {
+      "id": "e6",
+      "title": "Cybersecurity Fundamentals",
+      "cat": "Workshop",
+      "date": "2026-09-29T11:00",
+      "club": "Cyber Cell",
+      "loc": "Lab 3",
+      "desc": "Learn practical cyber hygiene, common attacks and defensive basics.",
+      "urgent": false,
+      "created": "2026-09-13T10:00:00.000Z"
+    },
+    {
+      "id": "e7",
+      "title": "Inter-College Hackathon",
+      "cat": "Competition",
+      "date": "2026-10-03T09:00",
+      "club": "Innovation Cell",
+      "loc": "Auditorium",
+      "desc": "Build, pitch and demo a solution to a real campus or community problem.",
+      "urgent": false,
+      "created": "2026-09-14T08:00:00.000Z"
+    },
+    {
+      "id": "e8",
+      "title": "Campus Maintenance Notice",
+      "cat": "Notice",
+      "date": "2026-09-21T08:00",
+      "club": "Administration",
+      "loc": "Main Campus",
+      "desc": "Some campus facilities will have restricted access during scheduled maintenance.",
+      "urgent": true,
+      "created": "2026-09-14T09:00:00.000Z"
+    },
+    {
+      "id": "e9",
+      "title": "Design Thinking Workshop",
+      "cat": "Workshop",
+      "date": "2026-10-07T15:00",
+      "club": "Design Club",
+      "loc": "Design Studio",
+      "desc": "Learn user research, ideation, prototyping and testing through a hands-on session.",
+      "urgent": false,
+      "created": "2026-09-14T10:00:00.000Z"
+    }
+  ],
+  "registrations": [],
+  "queries": []
+}

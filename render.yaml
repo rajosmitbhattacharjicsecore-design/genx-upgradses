@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: campushub
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: CAMPUSHUB_SECRET
+        generateValue: true

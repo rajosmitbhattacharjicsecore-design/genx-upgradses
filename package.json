@@ -1,0 +1,9 @@
+{
+  "name": "campushub-fullstack",
+  "version": "1.1.0",
+  "private": true,
+  "description": "CampusHub full-stack campus event aggregator",
+  "main": "server.js",
+  "scripts": {"start":"node server.js","dev":"node server.js"},
+  "engines": {"node": ">=18"}
+}
